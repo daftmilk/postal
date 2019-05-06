@@ -9,16 +9,15 @@ It helps extract addresses from *Apple Contacts.app*.
 
 ## Installation and manual
 
-1. Download [current Version (Swift 5)](downloads/current/Going%20postal.alfredworkflow).
+1. Download [current Version (Swift 5)](https://github.com/daftmilk/postal/tree/master/downloads/current).
 2. Double click to install for Alfred.
 3. Invoke Alfred-prompt and type `postal NAME` and wait patiently.
 4. Pick one of the results to copy to clipboard.
 5. CMD+V address into your editor of choice.
 
-## Older Versions
+## Legacy Versions for Swift 2 and 3
 
-- [Version for Swift 2](downloads/legacy/swift%202/Going%20postal.alfredworkflow)
-- [Version for Swift 3](downloads/legacy/swift%203/Going%20postal.alfredworkflow)
+- [Legacy Versions](https://github.com/daftmilk/postal/tree/master/downloads/legacy)
 
 ## TODO / Nice to have
 
