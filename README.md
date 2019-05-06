@@ -1,3 +1,5 @@
+![](assets/Alfred%20in%20action.gif)
+
 ![](src/icon.png)
 
 # Going postal…
