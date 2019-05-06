@@ -1,5 +1,3 @@
-![](assets/Alfred%20in%20action.gif)
-
 ![](src/icon.png)
 
 # Going postal…
@@ -16,6 +14,8 @@ It helps extract addresses from *Apple Contacts.app*.
 3. Invoke Alfred-prompt and type `postal NAME` and wait patiently.
 4. Pick one of the results to copy to clipboard.
 5. CMD+V address into your editor of choice.
+
+![](assets/Alfred%20in%20action.gif)
 
 ## Legacy Versions for Swift 2 and 3
 
