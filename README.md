@@ -17,6 +17,15 @@ It helps extract addresses from *Apple Contacts.app*.
 
 ![](assets/Alfred%20in%20action.gif)
 
+## Dependencies
+
+You need Xcode Command Line Tools.  
+To install open Terminal and type:
+
+```
+xcode-select --install
+```
+
 ## Legacy Versions for Swift 2 and 3
 
 - [Legacy Versions](https://github.com/daftmilk/postal/tree/master/downloads/legacy)
@@ -27,3 +36,4 @@ It helps extract addresses from *Apple Contacts.app*.
 - backwards-compatibilty to earlier Swift versions within the same file (possible?)
 - speed improvements (maybe indexing?)
 - Icon needs work
+- removing dependency on xcrun (Xcode Command Line Tools)
