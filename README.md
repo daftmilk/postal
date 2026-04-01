@@ -19,7 +19,7 @@ It helps extract addresses from *Apple Contacts.app*.
 
 ## Dependencies
 
-You need Xcode Command Line Tools.  
+You might need Xcode Command Line Tools.  
 To install open Terminal and type:
 
 ```
@@ -36,4 +36,7 @@ xcode-select --install
 - backwards-compatibilty to earlier Swift versions within the same file (possible?)
 - speed improvements (maybe indexing?)
 - Icon needs work
-- removing dependency on xcrun (Xcode Command Line Tools)
+
+## DONE
+
+- removed dependency on xcrun (Xcode Command Line Tools)
